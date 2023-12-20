@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Sam 👋 Welcome to my profile!
+# Hi there 👋 I'm Sam 👋 Welcome to my profile!
 
 ## About Me 😄
 I am a full-stack web developer from Christchurch, New Zealand with a passion for all things software. I enjoy creating, learning about, and tinkering with code. Software development has always been something that's peaked my interest and in 2023 I made the decision to pursue it and I’ve haven’t looked back.
